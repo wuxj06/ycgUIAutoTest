@@ -1,0 +1,251 @@
+[ {
+  "uid" : "cc59ed5a987e7a2c",
+  "name" : "testKBuscard",
+  "time" : {
+    "start" : 1616653521837,
+    "stop" : 1616653529309,
+    "duration" : 7472
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce27518cd2b9a6a9",
+  "name" : "testCDataAnalysis",
+  "time" : {
+    "start" : 1616653484389,
+    "stop" : 1616653487961,
+    "duration" : 3572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8649858cde2908b8",
+  "name" : "testMOnlineMeeting",
+  "time" : {
+    "start" : 1616653531901,
+    "stop" : 1616653534896,
+    "duration" : 2995
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1f313e53b175dc6",
+  "name" : "testJRegisterIndex",
+  "time" : {
+    "start" : 1616653519363,
+    "stop" : 1616653521834,
+    "duration" : 2471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5262f4f09c3d4c49",
+  "name" : "testXCompanyHall",
+  "time" : {
+    "start" : 1616653564113,
+    "stop" : 1616653578377,
+    "duration" : 14264
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e89ea89c685af01",
+  "name" : "testWAccountManage",
+  "time" : {
+    "start" : 1616653561131,
+    "stop" : 1616653564110,
+    "duration" : 2979
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34424f0fa28b5515",
+  "name" : "testLStorage",
+  "time" : {
+    "start" : 1616653529312,
+    "stop" : 1616653531898,
+    "duration" : 2586
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee6e726d43dd87f0",
+  "name" : "testIMenhuManage",
+  "time" : {
+    "start" : 1616653516065,
+    "stop" : 1616653519360,
+    "duration" : 3295
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad14baf2cdbf9519",
+  "name" : "testDNotice",
+  "time" : {
+    "start" : 1616653487964,
+    "stop" : 1616653490670,
+    "duration" : 2706
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86decde5e5d5450d",
+  "name" : "testQProductManagge",
+  "time" : {
+    "start" : 1616653544450,
+    "stop" : 1616653547036,
+    "duration" : 2586
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3867cfe9cdd232e2",
+  "name" : "testAUserSetting",
+  "time" : {
+    "start" : 1616653471799,
+    "stop" : 1616653479708,
+    "duration" : 7909
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e53213c8493a304b",
+  "name" : "testVDomain",
+  "time" : {
+    "start" : 1616653558545,
+    "stop" : 1616653561128,
+    "duration" : 2583
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "536f42abcaa7870a",
+  "name" : "testHRecruitApply",
+  "time" : {
+    "start" : 1616653510508,
+    "stop" : 1616653516062,
+    "duration" : 5554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fed9e79d52fc013",
+  "name" : "testPCaseManage",
+  "time" : {
+    "start" : 1616653541054,
+    "stop" : 1616653544447,
+    "duration" : 3393
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ba1fbc162cd468d",
+  "name" : "testBDataCount",
+  "time" : {
+    "start" : 1616653479710,
+    "stop" : 1616653484386,
+    "duration" : 4676
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d22a4795975d76be",
+  "name" : "testRAritcleList",
+  "time" : {
+    "start" : 1616653547039,
+    "stop" : 1616653549622,
+    "duration" : 2583
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20413d472479dbe9",
+  "name" : "testOWinbidPublic",
+  "time" : {
+    "start" : 1616653537560,
+    "stop" : 1616653541051,
+    "duration" : 3491
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5601c23a8a8e1de",
+  "name" : "testGMyrecruit",
+  "time" : {
+    "start" : 1616653506287,
+    "stop" : 1616653510505,
+    "duration" : 4218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb0dce3d310611f9",
+  "name" : "testESignUp",
+  "time" : {
+    "start" : 1616653490673,
+    "stop" : 1616653494014,
+    "duration" : 3341
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8eaea42d39275df3",
+  "name" : "testShowRoom",
+  "time" : {
+    "start" : 1616653549625,
+    "stop" : 1616653552116,
+    "duration" : 2491
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "533e82b59c7ca677",
+  "name" : "testFMyBidding",
+  "time" : {
+    "start" : 1616653494017,
+    "stop" : 1616653506284,
+    "duration" : 12267
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d04979dbc0bf641",
+  "name" : "testNSupplierArchive",
+  "time" : {
+    "start" : 1616653534899,
+    "stop" : 1616653537557,
+    "duration" : 2658
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34e1e878130b40a4",
+  "name" : "testTAdmanage",
+  "time" : {
+    "start" : 1616653552119,
+    "stop" : 1616653556428,
+    "duration" : 4309
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5d9111a60acc8ad",
+  "name" : "testUTargetedPromotion",
+  "time" : {
+    "start" : 1616653556431,
+    "stop" : 1616653558542,
+    "duration" : 2111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb80bf5ce673f6bb",
+  "name" : "testASupplierWorkStation",
+  "time" : {
+    "start" : 1616653440573,
+    "stop" : 1616653471795,
+    "duration" : 31222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

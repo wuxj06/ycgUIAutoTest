@@ -1,0 +1,5 @@
+INFO     root:loginPage.py:27 登录成功
+INFO     root:supplierBackStage.py:75 ——检查工作台界面——
+INFO     root:supplierBackStage.py:81 ——工作台界面显示正常——
+INFO     root:supplierBackStage.py:85 ——工作台-浏览记录界面显示正常
+INFO     root:supplierBackStage.py:91 ——工作台-发票订单界面显示正常——

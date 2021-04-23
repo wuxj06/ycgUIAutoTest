@@ -1,0 +1,114 @@
+{
+  "uid" : "fb80bf5ce673f6bb",
+  "name" : "testASupplierWorkStation",
+  "fullName" : "TestCase.test_D_supplierbackstage.Test_SupplierBackStage#testASupplierWorkStation",
+  "historyId" : "4c6bb063ccc98586cff8f4edf3fef4a7",
+  "time" : {
+    "start" : 1616653440573,
+    "stop" : 1616653471795,
+    "duration" : 31222
+  },
+  "description" : "供应商后台——供应商工作台",
+  "descriptionHtml" : "<p>供应商后台——供应商工作台</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_supplier_login",
+    "time" : {
+      "start" : 1616653431111,
+      "stop" : 1616653440571,
+      "duration" : 9460
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "供应商后台——供应商工作台",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1ebb0b2c720e13c5",
+      "name" : "log",
+      "source" : "1ebb0b2c720e13c5.txt",
+      "type" : "text/plain",
+      "size" : 368
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "init_supplier_login::0",
+    "time" : {
+      "start" : 1616653578377,
+      "stop" : 1616653578377,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "供应商后台"
+  }, {
+    "name" : "story",
+    "value" : "供应商工作台"
+  }, {
+    "name" : "tag",
+    "value" : "smoke2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_D_supplierbackstage"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_SupplierBackStage"
+  }, {
+    "name" : "host",
+    "value" : "sz-pc-00136"
+  }, {
+    "name" : "thread",
+    "value" : "13636-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_D_supplierbackstage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "smoke2" ]
+  },
+  "source" : "fb80bf5ce673f6bb.json",
+  "parameterValues" : [ ]
+}

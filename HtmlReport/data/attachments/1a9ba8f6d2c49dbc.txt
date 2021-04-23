@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:439 ——检查展厅轮播图界面——
+INFO     root:supplierBackStage.py:443 ——展厅轮播图界面显示正常——

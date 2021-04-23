@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:185 ——检查待报名界面——
+INFO     root:supplierBackStage.py:189 ——待报名界面显示正常——

@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:152 ——检查营销数据分析界面——
+INFO     root:supplierBackStage.py:156 ——营销数据分析界面显示正常——

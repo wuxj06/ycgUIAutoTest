@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:374 ——检查中标发布界面——
+INFO     root:supplierBackStage.py:379 ——中标发布界面显示正常——

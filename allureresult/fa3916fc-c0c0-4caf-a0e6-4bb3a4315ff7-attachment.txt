@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:169 ——检查供应商通知界面——
+INFO     root:supplierBackStage.py:173 ——供应商通知界面显示正常——

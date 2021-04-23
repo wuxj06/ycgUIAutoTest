@@ -1,0 +1,3 @@
+INFO     root:supplierBackStage.py:242 ——检查主动申请入库界面——
+INFO     root:supplierBackStage.py:246 ——主动申请入库界面显示正常——
+INFO     root:supplierBackStage.py:250 ——开发商入库界面正常打开——

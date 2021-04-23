@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:471 ——检查定向推广界面——
+INFO     root:supplierBackStage.py:475 ——定向推广界面显示正常——

@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:407 ——检查产品管理界面——
+INFO     root:supplierBackStage.py:411 ——产品管理界面显示正常——

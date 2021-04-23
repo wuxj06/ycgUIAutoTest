@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:342 ——检查我的对接会界面——
+INFO     root:supplierBackStage.py:346 ——我的对接会界面显示正常——

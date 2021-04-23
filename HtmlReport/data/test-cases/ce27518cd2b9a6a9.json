@@ -1,0 +1,114 @@
+{
+  "uid" : "ce27518cd2b9a6a9",
+  "name" : "testCDataAnalysis",
+  "fullName" : "TestCase.test_D_supplierbackstage.Test_SupplierBackStage#testCDataAnalysis",
+  "historyId" : "3454990526c336598dde4e20912f7cdd",
+  "time" : {
+    "start" : 1616653484389,
+    "stop" : 1616653487961,
+    "duration" : 3572
+  },
+  "description" : "供应商后台——市场数据分析",
+  "descriptionHtml" : "<p>供应商后台——市场数据分析</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_supplier_login",
+    "time" : {
+      "start" : 1616653431111,
+      "stop" : 1616653440571,
+      "duration" : 9460
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "供应商后台——市场数据分析",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d6dadb9746b255d1",
+      "name" : "log",
+      "source" : "d6dadb9746b255d1.txt",
+      "type" : "text/plain",
+      "size" : 169
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "init_supplier_login::0",
+    "time" : {
+      "start" : 1616653578377,
+      "stop" : 1616653578377,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "供应商后台"
+  }, {
+    "name" : "story",
+    "value" : "市场数据分析"
+  }, {
+    "name" : "tag",
+    "value" : "smoke2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_D_supplierbackstage"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_SupplierBackStage"
+  }, {
+    "name" : "host",
+    "value" : "sz-pc-00136"
+  }, {
+    "name" : "thread",
+    "value" : "13636-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_D_supplierbackstage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "smoke2" ]
+  },
+  "source" : "ce27518cd2b9a6a9.json",
+  "parameterValues" : [ ]
+}

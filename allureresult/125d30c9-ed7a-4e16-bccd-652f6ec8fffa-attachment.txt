@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:202 ——检查我的招标界面——
+INFO     root:supplierBackStage.py:209 ——我的招标界面显示正常——

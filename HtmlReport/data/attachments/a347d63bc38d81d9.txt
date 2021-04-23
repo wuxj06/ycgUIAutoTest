@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:455 ——检查广告位管理界面——
+INFO     root:supplierBackStage.py:459 ——广告位管理界面显示正常——

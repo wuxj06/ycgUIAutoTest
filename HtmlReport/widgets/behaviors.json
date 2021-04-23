@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "9b48923bf5aba4f836c66616c8611d9e",
+    "name" : "供应商后台",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 25,
+      "unknown" : 0,
+      "total" : 25
+    }
+  } ]
+}

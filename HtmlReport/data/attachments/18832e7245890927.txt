@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:283 ——检查资格预审界面——
+INFO     root:supplierBackStage.py:287 ——资格预审界面显示正常——

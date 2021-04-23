@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:423 ——检查企业风采界面——
+INFO     root:supplierBackStage.py:427 ——企业风采界面显示正常——

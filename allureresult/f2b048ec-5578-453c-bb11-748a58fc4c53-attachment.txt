@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:268 ——检查采购门户管理界面——
+INFO     root:supplierBackStage.py:272 ——采购门户管理界面显示正常——

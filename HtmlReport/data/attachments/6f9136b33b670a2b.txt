@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:358 ——检查企业档案界面——
+INFO     root:supplierBackStage.py:362 ——企业档案界面显示正常——

@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:300 ——检查名片交换界面——
+INFO     root:supplierBackStage.py:313 ——名片交换界面显示正常——

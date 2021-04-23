@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:503 ——检查账号管理界面——
+INFO     root:supplierBackStage.py:507 ——账号管理界面显示正常——

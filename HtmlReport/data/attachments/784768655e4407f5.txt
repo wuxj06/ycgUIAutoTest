@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:519 ——检查企业展厅——
+INFO     root:supplierBackStage.py:524 ——企业展厅界面显示正常——

@@ -1,0 +1,4 @@
+INFO     root:supplierBackStage.py:106 ——检查个人设置界面——
+INFO     root:supplierBackStage.py:111 ——个人设置-个人资料界面显示正常——
+INFO     root:supplierBackStage.py:115 ——个人设置-账号安全界面显示正常——
+INFO     root:supplierBackStage.py:119 ——认证界面显示正常——

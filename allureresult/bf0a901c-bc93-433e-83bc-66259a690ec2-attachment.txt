@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:391 ——检查案例管理界面——
+INFO     root:supplierBackStage.py:395 ——案例管理界面显示正常——

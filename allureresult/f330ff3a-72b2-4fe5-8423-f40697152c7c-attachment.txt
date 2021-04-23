@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:222 ——检查我的招募界面——
+INFO     root:supplierBackStage.py:229 ——我的招募界面显示正常——

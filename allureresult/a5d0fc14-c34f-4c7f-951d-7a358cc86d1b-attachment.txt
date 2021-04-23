@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:326 ——检查入库管理界面——
+INFO     root:supplierBackStage.py:330 ——入库管理界面显示正常——

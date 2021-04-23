@@ -1,0 +1,2 @@
+INFO     root:supplierBackStage.py:487 ——检查二级域名界面——
+INFO     root:supplierBackStage.py:491 ——二级域名界面显示正常——
