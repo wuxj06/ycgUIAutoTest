@@ -2,7 +2,6 @@ __author__ = 'wuxj06'
 from Common.BasePage import BasePage
 from selenium.webdriver.common.by import By
 import logging
-from Common import Logger,config
 import time
 from selenium.webdriver.common.keys import Keys
 from PageObject.Home.homepage import HomePage

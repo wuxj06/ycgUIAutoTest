@@ -2,7 +2,6 @@
 __author__ = 'wuxj06'
 from PageObject.Login.loginPage import LoginPage
 from TestData import common_data as CD
-import logging
 import pytest
 import allure
 
